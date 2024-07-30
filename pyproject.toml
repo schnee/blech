@@ -6,8 +6,9 @@ authors = ["Brent Schneeman <brent.schneeman@pmg.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.13"
 bless = "^0.2.6"
+bleak = "^0.22.2"
 
 
 [build-system]

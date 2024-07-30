@@ -4,7 +4,7 @@ import asyncio
 
 iphone_addresses = {
                     "87F4F875-2B0B-E872-6B1A-5583E3435FE9",  # Rahnng
-                    "fc:66:cf:bd:6f:75" # Ryygt ???
+                    #"fc:66:cf:bd:6f:75" # Ryygt ???
                     } 
 
 time_now = datetime.now(timezone.utc).strftime("%H%M%S")
